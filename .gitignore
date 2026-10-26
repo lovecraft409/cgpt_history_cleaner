@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Debug screenshots (may show your chat titles)
+debug.png
+*.png
+
+# Browser profile / cookies (never commit these)
+brave-playwright/
+.config/
+
+# Env and secrets
+.env
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
